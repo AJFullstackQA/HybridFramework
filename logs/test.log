@@ -1,0 +1,45 @@
+2026-04-15 07:49:13 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+2026-04-15 07:49:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ajith\eclipse-workspace\HybridFramework\testng.xml
+
+2026-04-15 07:49:19 INFO  LoginLogoutTest:21 - ===== Test Started: LoginLogoutTest =====
+2026-04-15 07:49:21 INFO  LoginLogoutTest:39 - Application was opened successfully
+2026-04-15 07:49:24 INFO  LoginLogoutTest:45 - Login was successful...!
+2026-04-15 07:49:25 INFO  LoginLogoutTest:52 - Logout was successful...!
+2026-04-15 07:49:25 INFO  LoginLogoutTest:57 - =====> End of LoginLogout Test <=====
+2026-04-15 07:51:59 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+2026-04-15 07:51:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ajith\eclipse-workspace\HybridFramework\testng.xml
+
+2026-04-15 07:52:03 INFO  LoginLogoutTest:21 - ===== Test Started: LoginLogoutTest =====
+2026-04-15 07:52:15 INFO  LoginLogoutTest:39 - Application was opened successfully
+2026-04-15 07:52:19 INFO  LoginLogoutTest:45 - Login was successful...!
+2026-04-15 07:52:19 INFO  LoginLogoutTest:52 - Logout was successful...!
+2026-04-15 07:52:19 INFO  LoginLogoutTest:57 - =====> End of LoginLogout Test <=====
+2026-04-15 08:12:18 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+2026-04-15 08:12:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ajith\eclipse-workspace\HybridFramework\testng.xml
+
+2026-04-15 08:12:22 INFO  LoginLogoutTest:21 - ===== Test Started: LoginLogoutTest =====
+2026-04-15 08:12:23 INFO  LoginLogoutTest:39 - Application was opened successfully
+2026-04-15 08:12:27 INFO  LoginLogoutTest:45 - Login was successful...!
+2026-04-15 08:12:27 INFO  LoginLogoutTest:52 - Logout was successful...!
+2026-04-15 08:12:27 INFO  LoginLogoutTest:57 - =====> End of LoginLogout Test <=====
+2026-04-15 08:13:30 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+2026-04-15 08:13:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ajith\eclipse-workspace\HybridFramework\testng.xml
+
+2026-04-15 08:13:34 INFO  LoginLogoutTest:21 - ===== Test Started: LoginLogoutTest =====
+2026-04-15 08:13:36 INFO  LoginLogoutTest:39 - Application was opened successfully
+2026-04-15 08:13:39 INFO  LoginLogoutTest:45 - Login was successful...!
+2026-04-15 08:13:40 INFO  LoginLogoutTest:52 - Logout was successful...!
+2026-04-15 08:13:40 INFO  LoginLogoutTest:57 - =====> End of LoginLogout Test <=====
+2026-04-15 08:14:53 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+2026-04-15 08:14:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ajith\eclipse-workspace\HybridFramework\testng.xml
+
+2026-04-15 08:14:57 INFO  LoginLogoutTest:21 - ===== Test Started: LoginLogoutTest =====
+2026-04-15 08:15:00 INFO  LoginLogoutTest:39 - Application was opened successfully
+2026-04-15 08:15:03 INFO  LoginLogoutTest:45 - Login was successful...!
+2026-04-15 08:15:04 INFO  LoginLogoutTest:52 - Logout was successful...!
+2026-04-15 08:15:04 INFO  LoginLogoutTest:57 - =====> End of LoginLogout Test <=====

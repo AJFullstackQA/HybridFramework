@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browserName" value="Firefox"/>
+  <test thread-count="5" parallel="classes" name="LoginLogout Scenarios(failed)">
+    <classes>
+      <class name="tests.LoginLogoutTest">
+        <methods>
+          <include name="loginLogoutMethod"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- tests.LoginLogoutTest -->
+    </classes>
+  </test> <!-- LoginLogout Scenarios(failed) -->
+</suite> <!-- Failed suite [Suite] -->
