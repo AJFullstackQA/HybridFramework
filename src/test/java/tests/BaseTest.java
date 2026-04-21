@@ -62,7 +62,7 @@ public class BaseTest {
 
 			// Include Browser Options
 			ChromeOptions opt = new ChromeOptions();
-//			opt.addArguments("--headless");
+			opt.addArguments("--headless");
 			opt.setExperimentalOption("prefs", prefs);
 			opt.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
 //			opt.addArguments("window-size=1920,1080");
