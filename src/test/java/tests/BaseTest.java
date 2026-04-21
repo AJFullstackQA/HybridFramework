@@ -67,8 +67,8 @@ public class BaseTest {
 			opt.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
 //			opt.addArguments("window-size=1920,1080");
 
-//			driver = new ChromeDriver(opt);
-			driver = new RemoteWebDriver(new URL("http://192.168.1.5:4444"), opt);
+			driver = new ChromeDriver(opt);
+//			driver = new RemoteWebDriver(new URL("http://192.168.1.5:4444"), opt);
 		}else if(browserName.equals("Firefox")) {
 			
 			// 1. Create a map for Chrome preferences
